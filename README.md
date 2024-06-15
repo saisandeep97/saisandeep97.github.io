@@ -49,7 +49,9 @@ Bachelor of Technology - Computer Science Engineering
 **PROJECTS**
 
 - **Finetuning LLM for Classification**: Fine-tuned Google Gemma Large Language Model (LLM) on a single GPU system using memory and compute-efficient techniques such as QLORA. Achieved 90% recall for the positive class in claim checkworthiness classification.
+ ![LLM Classification](/assets/img/llm.avif)
 - **End-to-End Chatbot**: Developed a chatbot application with Seq-to-Seq bi-directional GRU architecture using the PyTorch framework. Developed the front end using JavaScript and deployed the application with Node.js.
+  ![Chatbot](/assets/img/chatbot.jpeg)
 - **Swiped Away - A case study**: Extensive Exploratory data analysis
 
 **ACHIEVEMENTS**
