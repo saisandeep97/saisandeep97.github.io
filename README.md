@@ -5,16 +5,21 @@
 **PROJECTS**
 
 - **Finetuning LLM for Classification**: Fine-tuned Google Gemma Large Language Model (LLM) on a single GPU system using memory and compute-efficient techniques such as QLORA. Achieved 90% recall for the positive class in claim checkworthiness classification.
-  [Link](https://github.com/saisandeep97/finetuningLLM)
- ![LLM Classification](/assets/img/llm.avif)
+[Link](https://github.com/saisandeep97/finetuningLLM)
+![LLM Classification](/assets/img/llm.avif)
 
 - **End-to-End Chatbot**: Developed a chatbot application with Seq-to-Seq bi-directional GRU architecture using the PyTorch framework. Developed the front end using JavaScript and deployed the application with Node.js.
-  [Link](https://github.com/saisandeep97/Chat-botV2)
-  ![Chatbot](/assets/img/chatbot2.png)
+[Link](https://github.com/saisandeep97/Chat-botV2)
+[Blog](https://medium.com/swlh/end-to-end-chatbot-using-sequence-to-sequence-architecture-e24d137f9c78)
+![Chatbot](/assets/img/chatbot2.png)
+
+- **The Art of Stock Prediction!**: Forecast prices of US-listed stocks by considering technical indicators and market news as input using ML algorithms such as LightGBM, and XGBoost. 
+[Blog](https://medium.com/@saisandeep_10624/machine-learning-and-the-art-of-stock-prediction-43e3424356b7)
+![StockPrediction](/assets/img/stockpred.jpeg)
 
 - **Swiped Away - Decoding Fraud in the Digital Wallet**: Conducted exploratory data analysis using Plotly in Python to uncover insights such as buying patterns. Developed machine learning and neural network models to classify fraudulent transactions from genuine ones.
-  [Link](https://github.com/saisandeep97/swipedaway)
-  ![Credit Card Fraud](/assets/img/credit-card-fraud.avif)
+[Link](https://github.com/saisandeep97/swipedaway)
+![Credit Card Fraud](/assets/img/credit-card-fraud.avif)
 
 - **NeuronsUnchained: : Crafting Neural Networks from the Ground Up**: Implemented neural networks from scratch using only the NumPy library. Performed classification and regression tasks to gain a deep understanding of the internal workings of neural networks.
   [Link](https://github.com/saisandeep97/NeuronsUnchained)
