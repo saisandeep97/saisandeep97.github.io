@@ -7,6 +7,20 @@
 **Technical:**  
 Python, TensorFlow, R, SQL, Scikit-learn, NLP, Machine Learning, Forecasting, Docker, Transformers, Regression Analysis, Data Visualization, Recommender Systems, Large Language Models, GitHub, Power BI, Tableau, GitHub Actions
 
+**PROJECTS**
+
+- **Finetuning LLM for Classification**: Fine-tuned Google Gemma Large Language Model (LLM) on a single GPU system using memory and compute-efficient techniques such as QLORA. Achieved 90% recall for the positive class in claim checkworthiness classification.
+
+ ![LLM Classification](/assets/img/llm.avif)
+
+- **End-to-End Chatbot**: Developed a chatbot application with Seq-to-Seq bi-directional GRU architecture using the PyTorch framework. Developed the front end using JavaScript and deployed the application with Node.js.
+
+  ![Chatbot](/assets/img/chatbot.jpeg)
+
+- **Swiped Away - Decoding Fraud in the Digital Wallet**: Conducted exploratory data analysis using Plotly in Python to uncover insights such as buying patterns. Developed machine learning and neural network models to classify fraudulent transactions from genuine ones.
+
+  ![Credit Card Fraud](/assets/img/creditcard.jpeg)
+-  
 **Certifications:**  
 - Neural Networks & Deep Learning, Coursera 
 - Deep Learning with TensorFlow 2.0, Udemy
@@ -45,14 +59,6 @@ Master of Science – Data Science
 **Jawaharlal Nehru Technological University Hyderabad**  
 *Aug 2015 – May 2019*  
 Bachelor of Technology - Computer Science Engineering
-
-**PROJECTS**
-
-- **Finetuning LLM for Classification**: Fine-tuned Google Gemma Large Language Model (LLM) on a single GPU system using memory and compute-efficient techniques such as QLORA. Achieved 90% recall for the positive class in claim checkworthiness classification.
- ![LLM Classification](/assets/img/llm.avif)
-- **End-to-End Chatbot**: Developed a chatbot application with Seq-to-Seq bi-directional GRU architecture using the PyTorch framework. Developed the front end using JavaScript and deployed the application with Node.js.
-  ![Chatbot](/assets/img/chatbot.jpeg)
-- **Swiped Away - A case study**: Extensive Exploratory data analysis
 
 **ACHIEVEMENTS**
 
