@@ -1,3 +1,8 @@
+#Data Scientist
+
+- Linkedin-[naraparajusaisandeep](https://www.linkedin.com/in/naraparajusaisandeep/)
+- Medium-[saisandeep_10624](https://medium.com/@saisandeep_10624)
+
 **EDUCATION**
 
 **University of Texas at Arlington**  
@@ -7,11 +12,6 @@ Master of Science – Data Science
 **Jawaharlal Nehru Technological University Hyderabad**  
 *Aug 2015 – May 2019*  
 Bachelor of Technology - Computer Science Engineering
-
-**SOCIAL**
-
-- Linkedin-[naraparajusaisandeep](https://www.linkedin.com/in/naraparajusaisandeep/)
-- Medium-[saisandeep_10624](https://medium.com/@saisandeep_10624)
 
 **SKILLS & CERTIFICATIONS**  
 
@@ -49,12 +49,10 @@ Python, TensorFlow, R, SQL, Scikit-learn, NLP, Machine Learning, Forecasting, Do
 
 **PROJECTS**
 
-- **Finetuning LLM for Classification**: Fine-tuned Google Gemma Large Language Model (LLM) on a single GPU system using memory and compute-efficient techniques such as QLORA. Achieved 90% recall for the positive class in claim checkworthiness classification.
-[Link](https://github.com/saisandeep97/finetuningLLM)
+- **[Finetuning LLM for Classification](https://github.com/saisandeep97/finetuningLLM)**: Fine-tuned Google Gemma Large Language Model (LLM) on a single GPU system using memory and compute-efficient techniques such as QLORA. Achieved 90% recall for the positive class in claim checkworthiness classification.
 ![LLM Classification](/assets/img/llm.avif)
 
-- **End-to-End Chatbot**: Developed a chatbot application with Seq-to-Seq bi-directional GRU architecture using the PyTorch framework. Developed the front end using JavaScript and deployed the application with Node.js.
-[Link](https://github.com/saisandeep97/Chat-botV2)
+- **[End-to-End Chatbot](https://github.com/saisandeep97/Chat-botV2)**: Developed a chatbot application with Seq-to-Seq bi-directional GRU architecture using the PyTorch framework. Developed the front end using JavaScript and deployed the application with Node.js.
 [Blog](https://medium.com/swlh/end-to-end-chatbot-using-sequence-to-sequence-architecture-e24d137f9c78)
 ![Chatbot](/assets/img/chatbot2.png)
 
@@ -62,12 +60,10 @@ Python, TensorFlow, R, SQL, Scikit-learn, NLP, Machine Learning, Forecasting, Do
 [Blog](https://medium.com/@saisandeep_10624/machine-learning-and-the-art-of-stock-prediction-43e3424356b7)
 ![StockPrediction](/assets/img/stockpred.jpeg)
 
-- **Swiped Away - Decoding Fraud in the Digital Wallet**: Conducted exploratory data analysis using Plotly in Python to uncover insights such as buying patterns. Developed machine learning and neural network models to classify fraudulent transactions from genuine ones.
-[Link](https://github.com/saisandeep97/swipedaway)
+- **[Swiped Away - Decoding Fraud in the Digital Wallet](https://github.com/saisandeep97/swipedaway)**: Conducted exploratory data analysis using Plotly in Python to uncover insights such as buying patterns. Developed machine learning and neural network models to classify fraudulent transactions from genuine ones.
 ![Credit Card Fraud](/assets/img/credit-card-fraud.avif)
 
-- **NeuronsUnchained: : Crafting Neural Networks from the Ground Up**: Implemented neural networks from scratch using only the NumPy library. Performed classification and regression tasks to gain a deep understanding of the internal workings of neural networks.
-[Link](https://github.com/saisandeep97/NeuronsUnchained)
+- **[NeuronsUnchained: : Crafting Neural Networks from the Ground Up](https://github.com/saisandeep97/NeuronsUnchained)**: Implemented neural networks from scratch using only the NumPy library. Performed classification and regression tasks to gain a deep understanding of the internal workings of neural networks.
 ![Neural Network](/assets/img/nn.png)
 
 **ACHIEVEMENTS**
