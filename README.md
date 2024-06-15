@@ -1,7 +1,7 @@
 # Data Scientist
 
-- Linkedin-[naraparajusaisandeep](https://www.linkedin.com/in/naraparajusaisandeep/)
-- Medium-[saisandeep_10624](https://medium.com/@saisandeep_10624)
+Linkedin-[naraparajusaisandeep](https://www.linkedin.com/in/naraparajusaisandeep/)
+Medium-[saisandeep_10624](https://medium.com/@saisandeep_10624)
 
 **EDUCATION**
 
