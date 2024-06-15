@@ -10,17 +10,21 @@ Python, TensorFlow, R, SQL, Scikit-learn, NLP, Machine Learning, Forecasting, Do
 **PROJECTS**
 
 - **Finetuning LLM for Classification**: Fine-tuned Google Gemma Large Language Model (LLM) on a single GPU system using memory and compute-efficient techniques such as QLORA. Achieved 90% recall for the positive class in claim checkworthiness classification.
-
+  [Link](https://github.com/saisandeep97/finetuningLLM)
  ![LLM Classification](/assets/img/llm.avif)
 
 - **End-to-End Chatbot**: Developed a chatbot application with Seq-to-Seq bi-directional GRU architecture using the PyTorch framework. Developed the front end using JavaScript and deployed the application with Node.js.
-
+  [Link](https://github.com/saisandeep97/Chat-botV2)
   ![Chatbot](/assets/img/chatbot2.png)
 
 - **Swiped Away - Decoding Fraud in the Digital Wallet**: Conducted exploratory data analysis using Plotly in Python to uncover insights such as buying patterns. Developed machine learning and neural network models to classify fraudulent transactions from genuine ones.
+  [Link](https://github.com/saisandeep97/swipedaway)
+  ![Credit Card Fraud](/assets/img/credit-card-fraud.avif)
 
-  ![Credit Card Fraud](/assets/img/creditcard.jpeg)
--  
+- **NeuronsUnchained: : Crafting Neural Networks from the Ground Up**: Implemented neural networks from scratch using only the NumPy library. Performed classification and regression tasks to gain a deep understanding of the internal workings of neural networks.
+  [Link](https://github.com/saisandeep97/NeuronsUnchained)
+  ![Neural Network](/assets/img/nn.png)
+
 **Certifications:**  
 - Neural Networks & Deep Learning, Coursera 
 - Deep Learning with TensorFlow 2.0, Udemy
