@@ -46,10 +46,11 @@ Master of Science – Data Science
 *Aug 2015 – May 2019*  
 Bachelor of Technology - Computer Science Engineering
 
-**RELEVANT PROJECTS**
+**PROJECTS**
 
 - **Finetuning LLM for Classification**: Fine-tuned Google Gemma Large Language Model (LLM) on a single GPU system using memory and compute-efficient techniques such as QLORA. Achieved 90% recall for the positive class in claim checkworthiness classification.
 - **End-to-End Chatbot**: Developed a chatbot application with Seq-to-Seq bi-directional GRU architecture using the PyTorch framework. Developed the front end using JavaScript and deployed the application with Node.js.
+- **Swiped Away - A case study**: Extensive Exploratory data analysis
 
 **ACHIEVEMENTS**
 
