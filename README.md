@@ -15,7 +15,7 @@ Python, TensorFlow, R, SQL, Scikit-learn, NLP, Machine Learning, Forecasting, Do
 
 - **End-to-End Chatbot**: Developed a chatbot application with Seq-to-Seq bi-directional GRU architecture using the PyTorch framework. Developed the front end using JavaScript and deployed the application with Node.js.
 
-  ![Chatbot](/assets/img/chatbot.jpeg)
+  ![Chatbot](/assets/img/chatbot2.jpeg)
 
 - **Swiped Away - Decoding Fraud in the Digital Wallet**: Conducted exploratory data analysis using Plotly in Python to uncover insights such as buying patterns. Developed machine learning and neural network models to classify fraudulent transactions from genuine ones.
 
