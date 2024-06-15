@@ -2,11 +2,6 @@
  
 5 years of experience in delivering data-intensive, scalable analytical solutions across diverse industries. Proficient in Python, Predictive Modelling, NLP, Forecasting, Data Processing, Cloud Technologies, Data Analysis, and Dashboard Visualizations.
 
-**SKILLS & CERTIFICATIONS**  
-
-**Technical:**  
-Python, TensorFlow, R, SQL, Scikit-learn, NLP, Machine Learning, Forecasting, Docker, Transformers, Regression Analysis, Data Visualization, Recommender Systems, Large Language Models, GitHub, Power BI, Tableau, GitHub Actions
-
 **PROJECTS**
 
 - **Finetuning LLM for Classification**: Fine-tuned Google Gemma Large Language Model (LLM) on a single GPU system using memory and compute-efficient techniques such as QLORA. Achieved 90% recall for the positive class in claim checkworthiness classification.
@@ -25,9 +20,14 @@ Python, TensorFlow, R, SQL, Scikit-learn, NLP, Machine Learning, Forecasting, Do
   [Link](https://github.com/saisandeep97/NeuronsUnchained)
   ![Neural Network](/assets/img/nn.png)
 
+**SKILLS & CERTIFICATIONS**  
+
+**Technical:**  
+Python, TensorFlow, R, SQL, Scikit-learn, NLP, Machine Learning, Forecasting, Docker, Transformers, Regression Analysis, Data Visualization, Recommender Systems, Large Language Models, GitHub, Power BI, Tableau, GitHub Actions
+
 **Certifications:**  
-- Neural Networks & Deep Learning, Coursera 
-- Deep Learning with TensorFlow 2.0, Udemy
+- [Neural Networks & Deep Learning, Coursera](https://www.coursera.org/account/accomplishments/verify/QYRADFYRZE6K)
+- [Deep Learning with TensorFlow 2.0, Udemy](https://www.udemy.com/certificate/UC-ST97X67P/)
 
 **PROFESSIONAL EXPERIENCE**
 
