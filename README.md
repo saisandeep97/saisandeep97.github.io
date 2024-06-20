@@ -22,6 +22,24 @@ Python, TensorFlow, R, SQL, Scikit-learn, NLP, Machine Learning, Forecasting, Do
 - [Neural Networks & Deep Learning, Coursera](https://www.coursera.org/account/accomplishments/verify/QYRADFYRZE6K)
 - [Deep Learning with TensorFlow 2.0, Udemy](https://www.udemy.com/certificate/UC-ST97X67P/)
 
+**PROJECTS**
+
+- **[Finetuning LLM for Classification](https://github.com/saisandeep97/finetuningLLM)**: Fine-tuned Google Gemma Large Language Model (LLM) on a single GPU system using memory and compute-efficient techniques such as QLORA. Achieved 90% recall for the positive class in claim checkworthiness classification.
+![LLM Classification](/assets/img/llm.avif)
+
+- **[End-to-End Chatbot](https://github.com/saisandeep97/Chat-botV2)**: Developed a chatbot application with Seq-to-Seq bi-directional GRU architecture using the PyTorch framework. Developed the front end using JavaScript and deployed the application with Node.js.
+[Blog](https://medium.com/swlh/end-to-end-chatbot-using-sequence-to-sequence-architecture-e24d137f9c78)
+![Chatbot](/assets/img/chatbot2.png)
+
+- **The Art of Stock Prediction!**: Forecast prices of US-listed stocks by considering technical indicators and market news as input using ML algorithms such as LightGBM, and XGBoost. 
+[Blog](https://medium.com/@saisandeep_10624/machine-learning-and-the-art-of-stock-prediction-43e3424356b7)
+![StockPrediction](/assets/img/stockpred.jpeg)
+
+- **[Swiped Away - Decoding Fraud in the Digital Wallet](https://github.com/saisandeep97/swipedaway)**: Conducted exploratory data analysis using Plotly in Python to uncover insights such as buying patterns. Developed machine learning and neural network models to classify fraudulent transactions from genuine ones.
+![Credit Card Fraud](/assets/img/credit-card-fraud.avif)
+
+- **[NeuronsUnchained: : Crafting Neural Networks from the Ground Up](https://github.com/saisandeep97/NeuronsUnchained)**: Implemented neural networks from scratch using only the NumPy library. Performed classification and regression tasks to gain a deep understanding of the internal workings of neural networks.
+
 **PROFESSIONAL EXPERIENCE**
 
 **University of Texas at Arlington – Graduate Research Assistant**  
@@ -46,24 +64,6 @@ Python, TensorFlow, R, SQL, Scikit-learn, NLP, Machine Learning, Forecasting, Do
 *May 2019 – Feb 2020*  
 - Played a vital role in developing AppliedAI course content by designing 5 real-world case studies and assignments, helping students understand and apply concepts to real-world problems.
 - Built a Plagiarism Detection Tool using NLP techniques such as cosine similarity, reducing assignment evaluation time by 30%.
-
-**PROJECTS**
-
-- **[Finetuning LLM for Classification](https://github.com/saisandeep97/finetuningLLM)**: Fine-tuned Google Gemma Large Language Model (LLM) on a single GPU system using memory and compute-efficient techniques such as QLORA. Achieved 90% recall for the positive class in claim checkworthiness classification.
-![LLM Classification](/assets/img/llm.avif)
-
-- **[End-to-End Chatbot](https://github.com/saisandeep97/Chat-botV2)**: Developed a chatbot application with Seq-to-Seq bi-directional GRU architecture using the PyTorch framework. Developed the front end using JavaScript and deployed the application with Node.js.
-[Blog](https://medium.com/swlh/end-to-end-chatbot-using-sequence-to-sequence-architecture-e24d137f9c78)
-![Chatbot](/assets/img/chatbot2.png)
-
-- **The Art of Stock Prediction!**: Forecast prices of US-listed stocks by considering technical indicators and market news as input using ML algorithms such as LightGBM, and XGBoost. 
-[Blog](https://medium.com/@saisandeep_10624/machine-learning-and-the-art-of-stock-prediction-43e3424356b7)
-![StockPrediction](/assets/img/stockpred.jpeg)
-
-- **[Swiped Away - Decoding Fraud in the Digital Wallet](https://github.com/saisandeep97/swipedaway)**: Conducted exploratory data analysis using Plotly in Python to uncover insights such as buying patterns. Developed machine learning and neural network models to classify fraudulent transactions from genuine ones.
-![Credit Card Fraud](/assets/img/credit-card-fraud.avif)
-
-- **[NeuronsUnchained: : Crafting Neural Networks from the Ground Up](https://github.com/saisandeep97/NeuronsUnchained)**: Implemented neural networks from scratch using only the NumPy library. Performed classification and regression tasks to gain a deep understanding of the internal workings of neural networks.
 ![Neural Network](/assets/img/nn.png)
 
 **ACHIEVEMENTS**
