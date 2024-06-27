@@ -50,6 +50,8 @@ Python, TensorFlow, R, SQL, Scikit-learn, NLP, Machine Learning, Forecasting, Do
 
 - **[NeuronsUnchained: : Crafting Neural Networks from the Ground Up](https://github.com/saisandeep97/NeuronsUnchained)**: Implemented neural networks from scratch using only the NumPy library. Performed classification and regression tasks to gain a deep understanding of the internal workings of neural networks.
 
+![Neural Network](/assets/img/nn.png)
+
 **PROFESSIONAL EXPERIENCE**
 
 **University of Texas at Arlington – Graduate Research Assistant**  
@@ -74,7 +76,7 @@ Python, TensorFlow, R, SQL, Scikit-learn, NLP, Machine Learning, Forecasting, Do
 *May 2019 – Feb 2020*  
 - Played a vital role in developing AppliedAI course content by designing 5 real-world case studies and assignments, helping students understand and apply concepts to real-world problems.
 - Built a Plagiarism Detection Tool using NLP techniques such as cosine similarity, reducing assignment evaluation time by 30%.
-![Neural Network](/assets/img/nn.png)
+
 
 **ACHIEVEMENTS**
 
