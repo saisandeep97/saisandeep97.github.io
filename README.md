@@ -1,5 +1,6 @@
 # Data Scientist
 
+Resume-[Download](https://ufile.io/hjmr12ll)
 Linkedin-[naraparajusaisandeep](https://www.linkedin.com/in/naraparajusaisandeep/)
 Medium-[saisandeep_10624](https://medium.com/@saisandeep_10624)
 
