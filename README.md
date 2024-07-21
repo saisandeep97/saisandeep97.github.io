@@ -34,6 +34,13 @@ Python, TensorFlow, R, SQL, Scikit-learn, NLP, Machine Learning, Forecasting, Do
 - [Deep Learning with TensorFlow 2.0, Udemy](https://www.udemy.com/certificate/UC-ST97X67P/)
 
 **PROJECTS**
+- **[MarketPulse: Stock Forecasting & Sentiment Analysis](https://github.com/saisandeep97/StockForecastSentimentEndtoEnd)**: An end-to-end solution for stock price forecasting and news sentiment analysis. It includes data collection, preprocessing, feature engineering, model implementation, forecasting, news sentiment analysis, and a web-based dashboard. The system is designed to update daily and is deployed using Streamlit.
+[Demo](https://stockforecastsentimentendtoend.streamlit.app/)
+![StockForecast Prediction](/assets/img/stockforecast.png)
+
+- **[NewsInsight AI](https://github.com/saisandeep97/NewsRAG-CustomizedNews)**: News Retrieval-Augmented Generation (RAG) system that fetches top news articles from various sources, processes them, and allows users to query this information using natural language. The system uses advanced NLP techniques to provide accurate and up-to-date responses to news-related queries.
+![NewsInsight](/assets/img/newsinsight.png)
+
 
 - **[Finetuning LLM for Classification](https://github.com/saisandeep97/finetuningLLM)**: Fine-tuned Google Gemma Large Language Model (LLM) on a single GPU system using memory and compute-efficient techniques such as QLORA. Achieved 90% recall for the positive class in claim checkworthiness classification.
 ![LLM Classification](/assets/img/llm.avif)
