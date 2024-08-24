@@ -25,7 +25,7 @@ Master of Science – Data Science
 Bachelor of Technology - Computer Science Engineering
 
 **PUBLICATIONS**
-- **[•	Gradient-Based Adversarial Training on Transformer Networks for Detecting Check-Worthy Factual Claims](https://dl.acm.org/doi/10.1145/3689212)**: Co-authored a research article published in the ACM TIST journal, detailing the development of the first adversarially regularized claim spotting model, which achieves state-of-the-art performance on seven benchmark datasets.
+- **[Gradient-Based Adversarial Training on Transformer Networks for Detecting Check-Worthy Factual Claims](https://dl.acm.org/doi/10.1145/3689212)**: Co-authored a research article published in the ACM TIST journal, detailing the development of the first adversarially regularized claim spotting model, which achieves state-of-the-art performance on seven benchmark datasets.
 
 **SKILLS & CERTIFICATIONS**  
 
