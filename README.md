@@ -1,6 +1,6 @@
 # Data Scientist
 
-Resume-[View](https://drive.google.com/file/d/18fQgDbzTJlq1562SlIhNEk5thCBmRn58/view?usp=sharing)<br>
+Resume-[View](https://drive.google.com/file/d/1rVHgXg315ynbRzPlyzzv8ni6CUp45QtE/view?usp=drive_link)<br>
 Linkedin-[naraparajusaisandeep](https://www.linkedin.com/in/naraparajusaisandeep/)<br>
 Medium-[saisandeep_10624](https://medium.com/@saisandeep_10624)
 
