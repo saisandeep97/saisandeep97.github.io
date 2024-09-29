@@ -4,37 +4,8 @@ Resume-[View](https://drive.google.com/file/d/1_SFHOWY8wMXdZwBYHwjc5rmZQumlvfKn/
 Linkedin-[naraparajusaisandeep](https://www.linkedin.com/in/naraparajusaisandeep/)<br>
 Medium-[saisandeep_10624](https://medium.com/@saisandeep_10624)
 
-**ABOUT ME**
-
-Commencing my journey into the world of computing at the tender age of 12, I began by mastering the art of assembling and disassembling computers, as well as reinstalling operating systems, despite the absence of readily available resources. This self-taught expertise laid the groundwork for what has been a remarkable 15-year voyage through the ever-evolving landscape of technology. Today, I leverage advanced machine learning technologies, training sophisticated transformer networks on GPUs. This voyage from my initial curiosity in programming to the forefront of artificial intelligence reflects my adaptability and passion for continuous learning in the ever-evolving tech landscape.
-
-With a solid foundation in programming, starting with competitive programming in C and building websites using Java servlet for Hackathons while in college, I have ventured into an expert Data Scientist with my expertise in Python, Machine Learning, Neural Network , Forecasting, NLP, Deployment , SQL & Data Visualization. In this realm, I specialize in crafting models with PyTorch and TensorFlow.
-
-My engagement in data science hackathons on platforms like Kaggle, MachineHack, SmartIndia Hackathon sharpened my problem-solving abilities, competitive spirit, and creative approach to complex challenges. This competitive advantage enhances my technical proficiency, presenting me as a comprehensive candidate for forefront tech positions.
-
-Leveraging my background in cutting-edge technologies, I aim to empower teams, bolster technological capabilities, and drive the creation of transformative solutions that propel companies forward. My commitment to collaboration, continuous learning, and pushing the boundaries of possibility equips me to make a substantial impact in my forthcoming roles.
-
-**EDUCATION**
-
-**University of Texas at Arlington**  
-*Aug 2023 – Present*  
-Master of Science – Data Science
-
-**Jawaharlal Nehru Technological University Hyderabad**  
-*Aug 2015 – May 2019*  
-Bachelor of Technology - Computer Science Engineering
-
 **PUBLICATIONS**
 - **[Gradient-Based Adversarial Training on Transformer Networks for Detecting Check-Worthy Factual Claims](https://dl.acm.org/doi/10.1145/3689212)**: Co-authored a research article published in the ACM TIST journal, detailing the development of the first adversarially regularized claim spotting model, which achieves state-of-the-art performance on seven benchmark datasets.
-
-**SKILLS & CERTIFICATIONS**  
-
-**Technical:**  
-Python, TensorFlow, R, SQL, Scikit-learn, NLP, Machine Learning, Forecasting, Docker, Transformers, Regression Analysis, Data Visualization, Recommender Systems, Large Language Models, GitHub, Power BI, Tableau, GitHub Actions
-
-**Certifications:**  
-- [Neural Networks & Deep Learning, Coursera](https://www.coursera.org/account/accomplishments/verify/QYRADFYRZE6K)
-- [Deep Learning with TensorFlow 2.0, Udemy](https://www.udemy.com/certificate/UC-ST97X67P/)
 
 **PROJECTS**
 - **[MarketPulse: Stock Forecasting & Sentiment Analysis](https://github.com/saisandeep97/StockForecastSentimentEndtoEnd)**: An end-to-end solution for stock price forecasting and news sentiment analysis. It includes data collection, preprocessing, feature engineering, model implementation, forecasting, news sentiment analysis, and a web-based dashboard. The system is designed to update daily and is deployed using Streamlit.
@@ -88,8 +59,41 @@ Python, TensorFlow, R, SQL, Scikit-learn, NLP, Machine Learning, Forecasting, Do
 - Played a vital role in developing AppliedAI course content by designing 5 real-world case studies and assignments, helping students understand and apply concepts to real-world problems.
 - Built a Plagiarism Detection Tool using NLP techniques such as cosine similarity, reducing assignment evaluation time by 30%.
 
+**EDUCATION**
+
+**University of Texas at Arlington**  
+*Aug 2023 – Dec 2024*  
+Master of Science – Data Science
+
+**Jawaharlal Nehru Technological University Hyderabad**  
+*Aug 2015 – May 2019*  
+Bachelor of Technology - Computer Science Engineering
 
 **ACHIEVEMENTS**
 
 - Ranked #1 in a Machine Learning Hackathon with over 2,000 participants conducted by Machine Hacks.
 - Semi-finalist in SIH nationwide hackathon hosted by the Government of India.
+
+**ABOUT ME**
+
+Commencing my journey into the world of computing at the tender age of 12, I began by mastering the art of assembling and disassembling computers, as well as reinstalling operating systems, despite the absence of readily available resources. This self-taught expertise laid the groundwork for what has been a remarkable 15-year voyage through the ever-evolving landscape of technology. Today, I leverage advanced machine learning technologies, training sophisticated transformer networks on GPUs. This voyage from my initial curiosity in programming to the forefront of artificial intelligence reflects my adaptability and passion for continuous learning in the ever-evolving tech landscape.
+
+With a solid foundation in programming, starting with competitive programming in C and building websites using Java servlet for Hackathons while in college, I have ventured into an expert Data Scientist with my expertise in Python, Machine Learning, Neural Network , Forecasting, NLP, Deployment , SQL & Data Visualization. In this realm, I specialize in crafting models with PyTorch and TensorFlow.
+
+My engagement in data science hackathons on platforms like Kaggle, MachineHack, SmartIndia Hackathon sharpened my problem-solving abilities, competitive spirit, and creative approach to complex challenges. This competitive advantage enhances my technical proficiency, presenting me as a comprehensive candidate for forefront tech positions.
+
+Leveraging my background in cutting-edge technologies, I aim to empower teams, bolster technological capabilities, and drive the creation of transformative solutions that propel companies forward. My commitment to collaboration, continuous learning, and pushing the boundaries of possibility equips me to make a substantial impact in my forthcoming roles.
+
+
+
+
+
+**SKILLS & CERTIFICATIONS**  
+
+**Technical:**  
+Python, TensorFlow, R, SQL, Scikit-learn, NLP, Machine Learning, Forecasting, Docker, Transformers, Regression Analysis, Data Visualization, Recommender Systems, Large Language Models, GitHub, Power BI, Tableau, GitHub Actions
+
+**Certifications:**  
+- [Neural Networks & Deep Learning, Coursera](https://www.coursera.org/account/accomplishments/verify/QYRADFYRZE6K)
+- [Deep Learning with TensorFlow 2.0, Udemy](https://www.udemy.com/certificate/UC-ST97X67P/)
+
