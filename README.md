@@ -12,7 +12,8 @@ Medium-[saisandeep_10624](https://medium.com/@saisandeep_10624)
 [Demo](https://stockforecastsentimentendtoend.streamlit.app/)
 ![StockForecast Prediction](/assets/img/stockforecast.png)
 
-- **[NewsInsight AI](https://github.com/saisandeep97/NewsRAG-CustomizedNews)**: News Retrieval-Augmented Generation (RAG) system that fetches top news articles from various sources, processes them, and allows users to query this information using natural language. The system uses advanced NLP techniques to provide accurate and up-to-date responses to news-related queries.
+- **[NewsInsight AI](https://github.com/saisandeep97/LangchainNewsSummarizer)**: News Retrieval-Augmented Generation (RAG) system that fetches top news articles from various sources, processes them, and allows users to query this information using natural language. The system uses advanced NLP techniques to provide accurate and up-to-date responses to news-related queries.
+[Demo](https://newsaisummarizerbot.streamlit.app/)
 ![NewsInsight](/assets/img/newsinsight.png)
 
 
