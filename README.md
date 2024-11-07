@@ -8,14 +8,14 @@ Medium-[saisandeep_10624](https://medium.com/@saisandeep_10624)
 - **[Gradient-Based Adversarial Training on Transformer Networks for Detecting Check-Worthy Factual Claims](https://dl.acm.org/doi/10.1145/3689212)**: Co-authored a research article published in the ACM TIST journal, detailing the development of the first adversarially regularized claim spotting model, which achieves state-of-the-art performance on seven benchmark datasets.
 
 **PROJECTS**
+- **[NewsInsight AI](https://github.com/saisandeep97/LangchainNewsSummarizer)**: News Retrieval-Augmented Generation (RAG) system that fetches top news articles from various sources, processes them, and allows users to query this information using natural language. The system uses advanced NLP techniques to provide accurate and up-to-date responses to news-related queries.
+[Demo](https://newsaisummarizerbot.streamlit.app/)
+![NewsInsight](/assets/img/newsrag1.png)
+![NewsInsight2](/assets/img/newsrag2.png)
+
 - **[MarketPulse: Stock Forecasting & Sentiment Analysis](https://github.com/saisandeep97/StockForecastSentimentEndtoEnd)**: An end-to-end solution for stock price forecasting and news sentiment analysis. It includes data collection, preprocessing, feature engineering, model implementation, forecasting, news sentiment analysis, and a web-based dashboard. The system is designed to update daily and is deployed using Streamlit.
 [Demo](https://stockforecastsentimentendtoend.streamlit.app/)
 ![StockForecast Prediction](/assets/img/stockforecast.png)
-
-- **[NewsInsight AI](https://github.com/saisandeep97/LangchainNewsSummarizer)**: News Retrieval-Augmented Generation (RAG) system that fetches top news articles from various sources, processes them, and allows users to query this information using natural language. The system uses advanced NLP techniques to provide accurate and up-to-date responses to news-related queries.
-[Demo](https://newsaisummarizerbot.streamlit.app/)
-![NewsInsight](/assets/img/newsinsight.png)
-
 
 - **[Finetuning LLM for Classification](https://github.com/saisandeep97/finetuningLLM)**: Fine-tuned Google Gemma Large Language Model (LLM) on a single GPU system using memory and compute-efficient techniques such as QLORA. Achieved 90% recall for the positive class in claim checkworthiness classification.
 ![LLM Classification](/assets/img/llm.avif)
